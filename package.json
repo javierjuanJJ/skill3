@@ -1,0 +1,23 @@
+{
+  "name": "skill3",
+  "version": "1.0.0",
+  "description": "_Learn to use GitHub Copilot CLI—a standalone terminal application—for issue management and building a Node.js calculator application._",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierjuanJJ/skill3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierjuanJJ/skill3/issues"
+  },
+  "homepage": "https://github.com/javierjuanJJ/skill3#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
